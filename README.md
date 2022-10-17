@@ -1,2 +1,4 @@
 # Lab-1
-Lab 1 repository
+
+This is  Lab 1 repository.
+
