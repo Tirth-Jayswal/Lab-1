@@ -1,2 +1,6 @@
+#!/usr/bin/env python3
+
+print('Hi ' + name + ', ' + 'you are ' + age + ' years old.')
+
 age = input("Please enter your age: ")
 print(age)
